@@ -2,6 +2,8 @@ package class03;
 
 import class03.树.小根堆化;
 
+import java.util.Arrays;
+
 /**
  * @Auther:焦前进
  * @Data:2020/3/19
@@ -25,13 +27,14 @@ public class util {
      * @param arr
      */
     public static void printArray(int[] arr) {
-        if (arr == null) {
-            return;
-        }
-        for (int i = 0; i < arr.length; i++) {
-            System.out.print(arr[i] + " ");
-        }
-        System.out.println();
+//        if (arr == null) {
+//            return;
+//        }
+//        for (int i = 0; i < arr.length; i++) {
+//            System.out.print(arr[i] + " ");
+//        }
+//        System.out.println();
+        System.out.println(Arrays.toString(arr));
     }
 
     /**
@@ -54,7 +57,24 @@ public class util {
      * @return
      */
     public static int maxOf(int[] arr){
-        小根堆化.minHeapSort(arr);
-        return arr[0];
+//        小根堆化.minHeapSort(arr);
+//        return arr[0];
+        int max = 0;
+        for(int i = 1 ; i < arr.length;i++){
+            if(arr[i] > arr[max]){
+                max = i;
+            }
+        }
+        return arr[max];
+    }
+
+    public static int minOf(int[] arr) {
+        int min = 0;
+        for(int i = 1 ; i < arr.length;i++){
+            if(arr[i] < arr[min]){
+                min = i;
+            }
+        }
+        return arr[min];
     }
 }

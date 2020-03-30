@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d08a0db-8196-4be3-8b5d-9f65002a65c2" name="Default Changelist" comment="" />
+    <list default="true" id="9d08a0db-8196-4be3-8b5d-9f65002a65c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法很美/src/class03/基数排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法很美/src/class03/算法案例/TopK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法很美/src/class03/算法案例/字符串的包含.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法很美/src/class03/算法案例/所有员工的年龄排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法很美/src/class03/算法案例/找和的因子.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法很美/src/class03/算法案例/数组能排成的最小数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法很美/src/class03/算法案例/需要排序的子数组.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法很美/class03/util.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法很美/class03/util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法很美/class03/计数排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法很美/class03/计数排序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法很美/src/class03/util.java" beforeDir="false" afterPath="$PROJECT_DIR$/算法很美/src/class03/util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法很美/src/class03/计数排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/算法很美/src/class03/计数排序.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法很美/算法很美.iml" beforeDir="false" afterPath="$PROJECT_DIR$/算法很美/算法很美.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,14 +30,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1T64ht2g7knNr7Xloi6Lyock1DQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyProject" />
@@ -34,16 +58,114 @@
       <recent name="com.Link" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.计数排序">
-    <configuration name="快速排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class02.快速排序" />
+  <component name="RunManager" selected="Application.数组能排成的最小数">
+    <configuration name="所有员工的年龄排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class03.算法案例.所有员工的年龄排序" />
       <module name="算法很美" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class02.*" />
+          <option name="PATTERN" value="class03.算法案例.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="计数排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class03.计数排序" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组能排成的最小数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class03.算法案例.数组能排成的最小数" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class03.算法案例.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Case09_TopK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class03.算法案例.Case09_TopK" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class03.算法案例.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class03.算法案例.TopK" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class03.算法案例.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="扩充数组的方式" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class03.算法案例.扩充数组的方式" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class03.算法案例.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="查找逆序对" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class03.算法案例.查找逆序对" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class03.算法案例.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="求出现次数超一半的数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class03.算法案例.求出现次数超一半的数" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class03.算法案例.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="青蛙跳台阶" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="青蛙跳台阶" />
+      <module name="LetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -67,19 +189,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="class03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mathsitics.heap.Main" />
-      <module name="数据结构" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mathsitics.heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,8 +248,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="找和的因子" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class03.算法案例.找和的因子" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class03.算法案例.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="奇数位于偶数前" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class03.算法案例.奇数位于偶数前" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class03.算法案例.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="需要排序的子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class03.算法案例.需要排序的子数组" />
       <module name="算法很美" />
       <extension name="coverage">
         <pattern>
@@ -230,66 +365,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="扩充数组的方式" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class03.算法案例.扩充数组的方式" />
-      <module name="算法很美" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class03.算法案例.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="查找逆序对" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class03.算法案例.查找逆序对" />
-      <module name="算法很美" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class03.算法案例.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="求出现次数超一半的数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class03.算法案例.求出现次数超一半的数" />
-      <module name="算法很美" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class03.算法案例.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="青蛙跳台阶" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="青蛙跳台阶" />
-      <module name="LetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="第k个元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第k个元素" />
-      <module name="LetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.数组能排成的最小数" />
+        <item itemvalue="Application.所有员工的年龄排序" />
         <item itemvalue="Application.计数排序" />
-        <item itemvalue="Application.小根堆化" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.快速排序" />
-        <item itemvalue="Application.第k个元素" />
+        <item itemvalue="Application.TopK" />
+        <item itemvalue="Application.Case09_TopK" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +449,11 @@
       <workItem from="1584971007601" duration="2003000" />
       <workItem from="1585015736150" duration="8586000" />
       <workItem from="1585099820764" duration="10372000" />
-      <workItem from="1585204855611" duration="2087000" />
+      <workItem from="1585204855611" duration="9602000" />
+      <workItem from="1585231294422" duration="1360000" />
+      <workItem from="1585317802417" duration="1735000" />
+      <workItem from="1585379695630" duration="4826000" />
+      <workItem from="1585550905685" duration="5818000" />
     </task>
     <servers />
   </component>
@@ -383,42 +469,46 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1585099853643" />
-    <state width="1346" height="127" key="GridCell.Tab.0.bottom" timestamp="1585206720860">
+    <state width="1478" height="169" key="GridCell.Tab.0.bottom" timestamp="1585555360870">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1346" height="127" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585206720860" />
-    <state width="1346" height="127" key="GridCell.Tab.0.center" timestamp="1585206720860">
+    <state width="1478" height="169" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585555360870" />
+    <state width="1478" height="169" key="GridCell.Tab.0.center" timestamp="1585555360869">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1346" height="127" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585206720860" />
-    <state width="1346" height="127" key="GridCell.Tab.0.left" timestamp="1585206720860">
+    <state width="1478" height="169" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585555360869" />
+    <state width="1478" height="169" key="GridCell.Tab.0.left" timestamp="1585555360869">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1346" height="127" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585206720860" />
-    <state width="1346" height="127" key="GridCell.Tab.0.right" timestamp="1585206720860">
+    <state width="1478" height="169" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585555360869" />
+    <state width="1478" height="169" key="GridCell.Tab.0.right" timestamp="1585555360869">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1346" height="127" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585206720860" />
-    <state width="1493" height="228" key="GridCell.Tab.1.bottom" timestamp="1585034031668">
+    <state width="1478" height="169" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585555360869" />
+    <state width="1478" height="225" key="GridCell.Tab.1.bottom" timestamp="1585552886189">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585034031668" />
-    <state width="1493" height="228" key="GridCell.Tab.1.center" timestamp="1585034031668">
+    <state width="1478" height="225" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585552886189" />
+    <state width="1478" height="225" key="GridCell.Tab.1.center" timestamp="1585552886189">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1585034031668" />
-    <state width="1493" height="228" key="GridCell.Tab.1.left" timestamp="1585034031668">
+    <state width="1478" height="225" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1585552886189" />
+    <state width="1478" height="225" key="GridCell.Tab.1.left" timestamp="1585552886189">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1585034031668" />
-    <state width="1493" height="228" key="GridCell.Tab.1.right" timestamp="1585034031668">
+    <state width="1478" height="225" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1585552886189" />
+    <state width="1478" height="225" key="GridCell.Tab.1.right" timestamp="1585552886189">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1585034031668" />
+    <state width="1478" height="225" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1585552886189" />
     <state x="270" y="75" width="1176" height="714" key="SettingsEditor" timestamp="1585052133824">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="270" y="75" width="1176" height="714" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1585052133824" />
+    <state x="485" y="326" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585216294909">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="485" y="326" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864@0.0.1536.864" timestamp="1585216294909" />
     <state x="499" y="197" key="extract.method.dialog" timestamp="1584689860917">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
