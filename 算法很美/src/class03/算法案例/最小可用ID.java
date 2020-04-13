@@ -1,10 +1,5 @@
 package class03.算法案例;
 
-import class03.util;
-import org.omg.CORBA.PUBLIC_MEMBER;
-
-import javax.rmi.CORBA.Util;
-import javax.swing.text.Utilities;
 import java.util.Arrays;
 
 /**

@@ -1,6 +1,6 @@
 package class03.树;
 
-import class03.util;
+import util.Util;
 
 /**
  * @Author 焦前进
@@ -37,7 +37,7 @@ public class 大根堆化 {
             return;
         }
         //否则，最大值与 i 交换
-        util.swap(A, max, i);
+        Util.swap(A, max, i);
         //那个子树发生变化，与 i 交换后，继续递归调整，直到叶子节点
         maxHeapFixUp(A, max, n);
     }
@@ -46,7 +46,7 @@ public class 大根堆化 {
         maxHeap(A);
         for(int x = A.length - 1 ; x > 0 ;x--){
             //最后一个元素和 根节点交换，
-            util.swap(A,0,x);
+            Util.swap(A,0,x);
             //缩小堆的范围,对堆进行向下调整
             maxHeapFixUp(A,0,x);
         }
@@ -54,8 +54,8 @@ public class 大根堆化 {
     public static void main(String[] args) {
         int[] arr = {10,1,13,15,18};
         maxHeap(arr);
-        util.printArray(arr);
+        Util.printArray(arr);
         maxHeapSort(arr);
-        util.printArray(arr);
+        Util.printArray(arr);
     }
 }

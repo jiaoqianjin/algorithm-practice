@@ -1,6 +1,6 @@
 package class03.算法案例;
 
-import class03.util;
+import util.Util;
 
 import java.util.Arrays;
 
@@ -59,7 +59,7 @@ public class 求出现次数超一半的数 {
     }
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,5,6,4,4,4,4,5,5,5,5,5,5,5,5};
-        util.printArray(arr);
+        Util.printArray(arr);
        solve1(arr);
        solve2(arr);
        solve4(arr);

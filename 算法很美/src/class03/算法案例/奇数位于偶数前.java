@@ -1,5 +1,5 @@
 package class03.算法案例;
-import class03.util;
+import util.Util;
 /**
  * @Auther:焦前进
  * @Data:2020/3/19
@@ -37,15 +37,15 @@ public class 奇数位于偶数前 {
                 right--;
             }
             if (left < right) {
-                util.swap(arr,left,right);
+                Util.swap(arr,left,right);
             }
         }
         return arr;
     }
     public static void main(String[] args) {
-        int[] arr = util.generateRandomArray(20,20);
-        util.printArray(arr);
+        int[] arr = Util.generateRandomArray(20,20);
+        Util.printArray(arr);
         sort(arr,0,arr.length-1);
-        util.printArray(arr);
+        Util.printArray(arr);
     }
 }

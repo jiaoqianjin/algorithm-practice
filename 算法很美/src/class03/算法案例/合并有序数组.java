@@ -1,7 +1,7 @@
 package class03.算法案例;
 
 import class02.快速排序;
-import class03.util;
+import util.Util;
 
 /**
  * @Auther: 焦前进
@@ -36,10 +36,10 @@ public class 合并有序数组 {
     public static void main(String[] args) {
         int[] A = {10,15,18};
         快速排序.quickSort(A,0,A.length-1);
-        util.printArray(A);
+        Util.printArray(A);
         int[] B = {1,2,5,20};
         快速排序.quickSort(B,0,B.length-1);
-        util.printArray(B);
-        util.printArray(mergeArr(A,B));
+        Util.printArray(B);
+        Util.printArray(mergeArr(A,B));
     }
 }

@@ -1,6 +1,6 @@
 package class03.算法案例;
 
-import class03.util;
+import util.Util;
 
 import java.util.Scanner;
 /**
@@ -34,7 +34,7 @@ public class TopK {
     }
 
     private static void printRs() {
-        util.printArray(heap);
+        Util.printArray(heap);
     }
 
     /**

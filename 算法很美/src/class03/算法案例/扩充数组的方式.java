@@ -1,6 +1,6 @@
 package class03.算法案例;
 
-import class03.util;
+import util.Util;
 
 import java.util.Arrays;
 
@@ -40,8 +40,8 @@ public class 扩充数组的方式 {
         return b; //1 2 3 4 5 0 0 0 0 0
     }
     public static void main(String[] args) {
-        util.printArray(enlarge1());
-        util.printArray(enlarge2());
-        util.printArray(enlarge3());
+        Util.printArray(enlarge1());
+        Util.printArray(enlarge2());
+        Util.printArray(enlarge3());
     }
 }

@@ -1,6 +1,6 @@
 package class03.树;
 
-import class03.util;
+import util.Util;
 
 /**
  * @Auther:焦前进
@@ -39,7 +39,7 @@ public class 树的遍历 {
 
     public static void main(String[] args) {
         int[] arr = {5,7,8,3,2,1,0};
-        util.printArray(arr);
+        Util.printArray(arr);
         System.out.println("=====先序遍历结果====");
         preOrder(arr,0);
         System.out.println();

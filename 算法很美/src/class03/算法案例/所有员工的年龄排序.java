@@ -1,7 +1,6 @@
 package class03.算法案例;
 
-import class03.util;
-import sun.applet.Main;
+import util.Util;
 
 import java.util.Scanner;
 
@@ -29,8 +28,8 @@ public class 所有员工的年龄排序 {
      * @return
      */
     public static int[] sort(int[] ages){
-        int max = util.maxOf(ages);
-        int min = util.minOf(ages);
+        int max = Util.maxOf(ages);
+        int min = Util.minOf(ages);
         int[] helper = new int[max - min + 1];
         //将目标数组的元素，用辅助数组的下标表示，
         for(int e : ages){

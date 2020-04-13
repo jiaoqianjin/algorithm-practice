@@ -1,5 +1,7 @@
 package class03;
 
+import util.Util;
+
 import java.util.Arrays;
 
 /**
@@ -34,8 +36,8 @@ public class 计数排序 {
      */
     public static int[] sort(int[] source){
         //找到目标数组中的最大值
-        int max = util.maxOf(source);
-        int min = util.minOf(source);
+        int max = Util.maxOf(source);
+        int min = Util.minOf(source);
         System.out.println(max);
         //创建辅助空间,helper 数组中，指针存的source的值，元素 为值的个数
         int[] helper = new int[max-min+1];

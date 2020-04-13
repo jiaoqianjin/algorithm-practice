@@ -1,8 +1,6 @@
 package class03.算法案例;
 
-import class02.快速排序;
-import class03.util;
-import com.sun.xml.internal.ws.policy.AssertionSet;
+import util.Util;
 
 /**
  * @Auther:焦前进
@@ -44,7 +42,7 @@ public class 第K个元素 {
         else {
             midValueIndex = midIndex;
         }
-        util.swap(arr,l,midValueIndex);
+        Util.swap(arr,l,midValueIndex);
 
         int pivot = arr[l]; //数组的最左侧值作为主元
         int left = l + 1; //扫描指针
@@ -53,10 +51,10 @@ public class 第K个元素 {
             while (left <= right && arr[left] <= pivot) left++; //循环结束，left一定指向第一个大于pivot的元素
             while (left <= right && arr[right] > pivot) right--; //循环结束，right一定指向第一个小于等于pivot的元素
             if(left <= right){
-                util.swap(arr,left,right);
+                Util.swap(arr,left,right);
             }
         }
-        util.swap(arr,l,right);
+        Util.swap(arr,l,right);
         return right;
     }
 

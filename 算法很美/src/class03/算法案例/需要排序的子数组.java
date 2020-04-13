@@ -1,6 +1,6 @@
 package class03.算法案例;
 
-import class03.util;
+import util.Util;
 
 /**
  * @Author 焦前进
@@ -40,6 +40,6 @@ public class 需要排序的子数组 {
 
     public static void main(String[] args) {
         int[] arr = {2,3,7,4,1,5,6};
-        util.printArray(findSegment(arr,arr.length));
+        Util.printArray(findSegment(arr,arr.length));
     }
 }
