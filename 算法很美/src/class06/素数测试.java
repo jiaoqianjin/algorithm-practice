@@ -14,7 +14,7 @@ public class 素数测试 {
     public static void main(String[] args) {
         boolean res = isPrime(9L);
         System.out.println(res);
-        Map<Integer, Integer> map = primeFactor(9);
+        Map<Integer, Integer> map = primeFactor(10);
         StringBuilder sb = new StringBuilder();
         for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
             int k = entry.getKey();
@@ -46,7 +46,7 @@ public class 素数测试 {
      */
     public static Map<Integer, Integer> primeFactor(int num) {
         Map<Integer, Integer> map = new HashMap<>();//质因数-出现次数
-        for (int i = 2; i * i <= num; i++) {
+        for (int i = 2; i <= num; i++) {
             while (num % i == 0) {
                 Integer v = map.get(i);
                 if (v == null)

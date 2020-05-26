@@ -1,7 +1,5 @@
 package util;
 
-import class03.树.小根堆化;
-
 import java.util.Arrays;
 
 /**
@@ -142,4 +140,18 @@ public class Util {
         }
         return result;
     }
+
+    /**
+     * 将一个int数字转换为二进制的字符串形式。
+     * @param num 需要转换的int类型数据
+     * @param digits 要转换的二进制位数，位数不足则在前面补0
+     * @return 二进制的字符串形式
+     */
+    public static String toBinary(int num, int digits) {
+        int value = 1 << digits | num;
+        //保证这个string长度是digits位数
+        String bs = Integer.toBinaryString(value);
+        return  bs.substring(1);
+    }
+
 }

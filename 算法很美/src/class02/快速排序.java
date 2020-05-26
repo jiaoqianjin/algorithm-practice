@@ -61,7 +61,7 @@ public class 快速排序 {
         int left = p + 1; //扫描指针
         int right = r; //右侧指针
         while (left <= right){
-            //left不停的往右走，知道遇到大于主元的元素
+            //left不停的往右走，直到遇到大于主元的元素
             while (left <= right && arr[left] <= pivot) left++;//循环退出时，left一定指向第一个大于主元的元素
             while (left <= right && pivot < arr[right]) right--;//循环退出时，right一定指向第一个小于主元的元素
             if(left<=right){
