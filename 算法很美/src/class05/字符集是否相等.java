@@ -59,7 +59,7 @@ public class 字符集是否相等 {
     }
     public static void main(String[] args) {
         String s1 = "aaasdfaff";
-        String s2 = "aaasfac";
+        String s2 = "aaasfa";
         System.out.println(check(s1,s2));
         System.out.println(check2(s1,s2));
     }
