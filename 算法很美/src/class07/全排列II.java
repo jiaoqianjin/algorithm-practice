@@ -14,7 +14,7 @@ import java.util.Arrays;
 
 public class 全排列II {
     public static void main(String[] args) {
-        ArrayList<String> res = new 全排列II().getPermutation("abc");
+        ArrayList<String> res = new 全排列II().getPermutation("ab");
         System.out.println(res.size());
         System.out.println(res);
     }

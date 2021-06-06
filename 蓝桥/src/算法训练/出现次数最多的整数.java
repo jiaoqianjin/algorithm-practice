@@ -15,6 +15,9 @@ public class 出现次数最多的整数 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int length = sc.nextInt();
+        if (length < 1 || length > 20 ) {
+            return;
+        }
         int[] arr = new int[length];
         for (int i = 0; i < length; i++) {
             arr[i] = sc.nextInt();

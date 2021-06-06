@@ -11,11 +11,11 @@ import java.util.ArrayList;
 
 public class 全排列I {
     public static void main(String[] args) {
-        ArrayList<String> res = new 全排列I().getPermutation0("abcd");
+        ArrayList<String> res = new 全排列I().getPermutation0("abcde");
         System.out.println(res.size());
         System.out.println(res);
     }
-    /*
+    /**
     逐步生成大发：迭代法
      */
     public ArrayList<String> getPermutation0(String A) {
