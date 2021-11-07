@@ -1,4 +1,4 @@
-package class03;
+package sort;
 
 import util.Util;
 
@@ -21,7 +21,7 @@ import java.util.Arrays;
  * 如果要优化一下空间，可以求minOf(source),helper的长度为max-min+1
  * 计数有缺点，数据密集或者范围小时，适用
  **/
-public class 计数排序 {
+public class CountSort {
     /**
      * 思路：开辟新的空间，空间大小为max(source)-min(source)+1 <br />
      * 扫描source，将value作为辅助空间的下标，用辅助空间的该位置元素记录value的个数<br />

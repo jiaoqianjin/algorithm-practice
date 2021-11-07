@@ -1,11 +1,11 @@
-package class03.树;
+package sort;
 
 /**
  * @Author 焦前进
  * @Date: 2020/3/25 15:13
  * @Description:
  **/
-public class 小根堆化 {
+public class TreeSort {
     public static void minHeap(int[] A) {
         int n = A.length;
         for (int i = n / 2 - 1; i >= 0; i--) {
