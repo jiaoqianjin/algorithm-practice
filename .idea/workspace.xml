@@ -2,44 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d08a0db-8196-4be3-8b5d-9f65002a65c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2021/src/book/link/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/book/queue/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/book/queue/ArrayQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/book/queue/NodeQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/interview/wangfanxin/One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/interview/wangfanxin/Two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/interview/wangfanxin/Two1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/interview/wangfanxin/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/leetcode/hash/FrequencySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/leetcode/hash/HasCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/leetcode/hash/IntToRoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/leetcode/hash/LengthOfLongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/leetcode/hash/LetterCombinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/leetcode/hash/RomanToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/leetcode/hash/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/leetcode/sort/Merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/offer/Five.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/offer/Four.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/offer/Three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/sort/CountSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/sort/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/sort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/sort/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/sort/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/sort/TreeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021/src/util/Util.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_lang3_3_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/commons_lang3_3_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021/src/book/io/FileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021/src/book/io/IoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021/src/book/tree/Bfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021/src/book/tree/Dfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021/src/leetcode/tree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021/src/leetcode/tree/二叉树的中序遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021/src/leetcode/tree/二叉树的最大深度.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021/src/leetcode/tree/对称二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021/src/leetcode/tree/相同的树.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/算法很美/class02/希尔排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法很美/class02/希尔排序.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/算法很美/class03/树/大根堆化.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法很美/class03/树/大根堆化.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/算法很美/class03/树/小根堆化.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法很美/class03/树/小根堆化.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mathsitics/link/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mathsitics/link/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法很美/src/class02/希尔排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/算法很美/src/class02/希尔排序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法很美/src/class03/树/大根堆化.java" beforeDir="false" afterPath="$PROJECT_DIR$/算法很美/src/class03/树/大根堆化.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法很美/src/class03/树/小根堆化.java" beforeDir="false" afterPath="$PROJECT_DIR$/算法很美/src/class03/树/小根堆化.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法很美/src/class03/计数排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/算法很美/src/class03/计数排序.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,10 +68,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -116,26 +89,13 @@
       <recent name="D:\Program Files\IDEA\数据结构\蓝桥\src\模拟" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Five">
-    <configuration name="删除数组零元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法训练.删除数组零元素" />
-      <module name="蓝桥" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法训练.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Five" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.Five" />
+  <component name="RunManager" selected="Application.FileTest">
+    <configuration name="二叉树的中序遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.tree.二叉树的中序遍历" />
       <module name="2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.*" />
+          <option name="PATTERN" value="leetcode.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.wangfanxin.One" />
+    <configuration name="Bfs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book.tree.Bfs" />
       <module name="2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview.wangfanxin.*" />
+          <option name="PATTERN" value="book.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.wangfanxin.Two" />
+    <configuration name="Dfs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book.tree.Dfs" />
       <module name="2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview.wangfanxin.*" />
+          <option name="PATTERN" value="book.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Two1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.wangfanxin.Two1" />
+    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book.io.FileTest" />
       <module name="2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview.wangfanxin.*" />
+          <option name="PATTERN" value="book.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,285 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="矩阵乘法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="基础练习.矩阵乘法" />
-      <module name="蓝桥" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="基础练习.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="合法括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class07.合法括号" />
-      <module name="算法很美" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="时间转换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="基础练习.时间转换" />
-      <module name="蓝桥" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="基础练习.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="树的遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class03.树.树的遍历" />
-      <module name="算法很美" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class03.树.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="大根堆化" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class03.树.大根堆化" />
-      <module name="算法很美" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class03.树.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="合法括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class07.合法括号" />
-      <module name="算法很美" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="计数排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class03.计数排序" />
-      <module name="算法很美" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="旋转数组的最小元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class02.旋转数组的最小元素" />
-      <module name="算法很美" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="字串统计" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法训练.字串统计" />
-      <module name="蓝桥" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法训练.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="判断字符串有无重复字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class05.判断字符串有无重复字符" />
-      <module name="算法很美" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="矩阵运算" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class04.矩阵运算" />
-      <module name="算法很美" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="奇数位于偶数前" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class03.算法案例.奇数位于偶数前" />
-      <module name="算法很美" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class03.算法案例.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="找和的因子" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class03.算法案例.找和的因子" />
-      <module name="算法很美" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class03.算法案例.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="字符串合并" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法训练.字符串合并" />
-      <module name="蓝桥" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法训练.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="路径之谜" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lanqiao.路径之谜" />
+    <configuration name="IoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book.io.IoTest" />
       <module name="2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lanqiao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="翻转字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class05.翻转字符串" />
-      <module name="算法很美" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="表达式计算" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法训练.表达式计算" />
-      <module name="蓝桥" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法训练.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="字符集是否相等" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class05.字符集是否相等" />
-      <module name="算法很美" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="数列特征" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="基础练习.数列特征" />
-      <module name="蓝桥" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="基础练习.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="计数排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class03.计数排序" />
-      <module name="算法很美" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="单词加密" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="模拟.单词加密" />
-      <module name="蓝桥" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="模拟.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法训练.排序" />
-      <module name="蓝桥" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法训练.*" />
+          <option name="PATTERN" value="book.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -487,6 +174,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="class06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二叉树的最大深度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.tree.二叉树的最大深度" />
+      <module name="2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -546,6 +246,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="合法括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class07.合法括号" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="数的读法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="基础练习.数的读法" />
       <module name="蓝桥" />
@@ -565,6 +278,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="class04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="翻转字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class05.翻转字符串" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -594,6 +320,19 @@
     </configuration>
     <configuration name="出现次数最多的整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="算法训练.出现次数最多的整数" />
+      <module name="蓝桥" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算法训练.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字串统计" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法训练.字串统计" />
       <module name="蓝桥" />
       <extension name="coverage">
         <pattern>
@@ -670,6 +409,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="时间转换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="基础练习.时间转换" />
+      <module name="蓝桥" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="基础练习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="表达式计算" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法训练.表达式计算" />
+      <module name="蓝桥" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算法训练.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="小白上楼梯" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class02.小白上楼梯" />
       <module name="算法很美" />
@@ -705,6 +470,19 @@
     </configuration>
     <configuration name="变形词" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class05.变形词" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="判断字符串有无重复字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class05.判断字符串有无重复字符" />
       <module name="算法很美" />
       <extension name="coverage">
         <pattern>
@@ -781,12 +559,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="字符集是否相等" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class05.字符集是否相等" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="矩阵乘法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="基础练习.矩阵乘法" />
       <module name="蓝桥" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="基础练习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="树的遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class03.树.树的遍历" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class03.树.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -826,6 +630,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="模拟.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="矩阵运算" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class04.矩阵运算" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -885,6 +702,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="矩阵乘法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="基础练习.矩阵乘法" />
+      <module name="蓝桥" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="基础练习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="奇数位于偶数前" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class03.算法案例.奇数位于偶数前" />
       <module name="算法很美" />
@@ -924,6 +754,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="大根堆化" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class03.树.大根堆化" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class03.树.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="最大最小公倍数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="算法训练.最大最小公倍数" />
       <module name="蓝桥" />
@@ -943,6 +786,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="class02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="奇数位于偶数前" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class03.算法案例.奇数位于偶数前" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class03.算法案例.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -982,6 +838,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="class02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数列特征" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="基础练习.数列特征" />
+      <module name="蓝桥" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="基础练习.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1054,12 +923,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="合法括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class07.合法括号" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="机器人走方格" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class07.机器人走方格" />
       <module name="算法很美" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="class07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="找和的因子" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class03.算法案例.找和的因子" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class03.算法案例.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1086,6 +981,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="算法训练.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="计数排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class03.计数排序" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1152,12 +1060,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.wangfanxin.test" />
+    <configuration name="计数排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class03.计数排序" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="旋转数组的最小元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02.旋转数组的最小元素" />
+      <module name="算法很美" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符串合并" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法训练.字符串合并" />
+      <module name="蓝桥" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算法训练.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="路径之谜" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lanqiao.路径之谜" />
       <module name="2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview.wangfanxin.*" />
+          <option name="PATTERN" value="lanqiao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="单词加密" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="模拟.单词加密" />
+      <module name="蓝桥" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="模拟.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法训练.排序" />
+      <module name="蓝桥" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算法训练.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1167,10 +1140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.One" />
-        <item itemvalue="Application.Two1" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.Five" />
+        <item itemvalue="Application.FileTest" />
+        <item itemvalue="Application.IoTest" />
+        <item itemvalue="Application.Bfs" />
+        <item itemvalue="Application.Dfs" />
+        <item itemvalue="Application.二叉树的中序遍历" />
       </list>
     </recent_temporary>
   </component>
@@ -1340,6 +1314,10 @@
       <workItem from="1631328314711" duration="4026000" />
       <workItem from="1634626017837" duration="3344000" />
       <workItem from="1635990315856" duration="21344000" />
+      <workItem from="1636271002468" duration="11101000" />
+      <workItem from="1636350046820" duration="3544000" />
+      <workItem from="1636363793290" duration="85000" />
+      <workItem from="1636424566781" duration="6049000" />
     </task>
     <task id="LOCAL-00001" summary="2020.03.30">
       <created>1585556787611</created>
