@@ -55,7 +55,7 @@ public class 返回子数组中最大累加和 {
                 right = i;
             }
         }
-//        System.out.println("left="+left+" "+"right="+right);
+        System.out.println("left="+left+" "+"right="+right);
         return max;
     }
     public static void main(String[] args) {

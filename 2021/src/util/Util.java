@@ -70,7 +70,7 @@ public class Util {
         return arr;
     }
     /**
-     * 求数组中的最大值
+     * 求数组中的FF最大值
      * @param arr
      * @return
      */
