@@ -46,7 +46,6 @@ public class CollectorsUsr {
 
         //算出分数最小的那个并输出
         userList.stream().collect(Collectors.minBy(Comparator.comparingInt(User::getScore))).ifPresent(System.out::println);
-
         //算出分数最大的那个并输出（无法做到多个并列的时候求值）
         Optional optional = userList.stream().collect(Collectors.maxBy(Comparator.comparingInt(User::getScore)));
         //optional.isPresent(System.out::println);//isPresent是判断是否存在，不能接受参数

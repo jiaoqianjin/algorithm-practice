@@ -1,9 +1,9 @@
 package leetcode.codetop;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
+
+import book.tree.Dfs;
+
+import java.util.*;
 
 /**
  * Description：二叉树的层序遍历
@@ -46,6 +46,37 @@ public class codeTop12_二叉树的层序遍历 {
                 }
             }
             res.add(list);
+        }
+        return res;
+    }
+    /**
+     * 功能描述: 深度优先搜索
+     * DFS 就是先尽可能的达到当前遍历路径能够达到的最长路径，达到该路径终点之后，回溯
+     * 从原来已经遍历过顶点处开始新分支遍历
+     *
+     * @param treeNode 待遍历分支
+     * @return 遍历结果
+     * @author jiaoqianjin
+     * @date 2021/11/7
+     */
+    public List<Integer> deptFirstSearch(TreeNode treeNode) {
+        List<Integer> res = new ArrayList<>();
+        if (treeNode == null) {
+            return res;
+        }
+        Stack<TreeNode> stack = new Stack<>();
+        stack.push(treeNode);
+        while (!stack.isEmpty()) {
+            // 获取节点
+            TreeNode node = stack.pop();
+            // 栈，先入后出，所以右节点先入栈，左节点后入栈。出栈顺序则为先左后右
+            if (node.right != null) {
+                stack.push(node.right);
+            }
+            if (node.left != null) {
+                stack.push(node.left);
+            }
+            res.add(node.val);
         }
         return res;
     }
